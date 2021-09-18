@@ -5,7 +5,7 @@ This is the backend used by the tutorial about the Clean Architecture. It is wri
 If you want to run this microservice without installing the source code, proceed af following:
 
 0. Prerequisite: you need to have Java installed  
-1. Download the [backend-1.0.0.jar](https://github.com/DiegoNovati/Backend-for-the-Clean-Architecture-Tutorial/backend-1.0.0.jar) file
+1. Download the [backend-1.0.0.jar](https://github.com/DiegoNovati/Backend-for-the-Clean-Architecture-Tutorial/blob/c34c79b82bbe3f90e54539d0b8ad6db38a75c6dd/backend-1.0.0.jar?raw=true) file
 2. Open the terminal in the folder containing the downloaded .jar
 3. Run the command
 
